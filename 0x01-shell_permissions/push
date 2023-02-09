@@ -2,5 +2,4 @@
 chmod 777 *
 git add . 
 git commit -m "m"
-git push
-echo "philopaterwaheed"
+git push < "philopaterwaheed"

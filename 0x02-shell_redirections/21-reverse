@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$1">txt & rev txt 
+echo "$2>1">txt & rev txt 
